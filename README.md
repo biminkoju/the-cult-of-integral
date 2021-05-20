@@ -6,6 +6,8 @@ The cult of Integral is a cult fromed on the 19th May, 2021. The cult worships t
 ### How to contribute to the cause.
 To contribute to the cause, simply add "**Source: The Cult of Integral**" to any copypastas you post onto r/copypasta (Include with the real source if you took the copypasta from somewhere else!). This text should link back to this github repository (link: https://github.com/Catterall/the-cult-of-integral). You can also view our links below.
 
+**To include your copypasta in the form of .txt in this repositories copypasta folder, message [u/xSerpentine]((https://www.reddit.com/user/xSerpentine)) on reddit or join the discord server (when it's released).**
+
 ### Links.
 [The cult of Integral wiki can be found here.](https://cult-of-integral.fandom.com/f)
 
