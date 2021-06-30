@@ -6,7 +6,7 @@ I just created a cult for r/copypasta's Cummy Abusers.
 
 ### What does this mean?
 
-The Cult of Integral is a cult dedicated to the creation of original copypasta, that are both high in quality and dedicated to the community of r/copypasta.
+The Cult of Integral is a cult dedicated to the creation of original copypasta, that is both high in quality and dedicated to the community of r/copypasta.
 
 Examples of copypasta typical of The Cult of Integral include copypasta relating to cum, copypasta designed to make people go "wtf", copypasta designed for trolling, copypasta in praise of r/copypasta, meta copypasta, etc.
 
