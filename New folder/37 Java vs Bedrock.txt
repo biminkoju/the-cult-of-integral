@@ -1,0 +1,38 @@
+Copypasta link: https://www.reddit.com/r/copypasta/comments/nw6im9/java_vs_bedrock/
+
+
+Features exclusive to bedrock:
+
+- Fish sizes (09/06/21).
+
+Features exclusive to Java (09/06/2021):
+
+- Localised weather as opposed to global weather (Localised Weather and Storms; 1.12.2).
+
+- Progressive storm systems, waves (1.6.4), toggleable tornadoes, cyclones, and dust storms (Localised Weather and Storms; 1.12.2).
+
+- Ability to create and ride submarines, boats, and airships out of blocks (Davincis vessels; 1.12.2).
+
+- The Twilight Forest (The Twilight Forest; 1.16.5).
+
+- Technology (various (notable: Mekanism 10; 1.16.5)).
+
+- Hundreds of more mobs (various (notable: Mo' Creatures; 1.12.2)).
+
+- Better world generation than 1.17 part two (TerraForged, YUNGS better caves/mineshafts, etc; 1.12.2).
+
+- Better nether than 1.16 (NetherEX; 1.12.2).
+
+- Better portals (Immersive Portals; 1.16.5).
+
+- Hundreds of more biomes (Biome Bundle; 1.12.2 (OTG), Biomes O' Plenty; 1.16.5).
+
+- More settings (Optifine; 1.17).
+
+- More algorithms (BetterFPS; 1.12.2).
+
+- Space (Galacticraft; 1.16.5).
+
+- More crops (various (notable: Pam's Harvest Craft; 1.12.2)).
+
+- Hundreds of more structures (Recurrent Complex; 1.12.2)).
